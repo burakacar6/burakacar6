@@ -2,55 +2,55 @@
 
 ## ⚡ Tech Stack & Languages
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
 ## 🖥️ Environments & OS
 
-![Pardus](https://img.shields.io/badge/Pardus-%232F3E46.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Pardus](https://img.shields.io/badge/Pardus-ffffff?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-ffffff?style=for-the-badge&logo=kali-linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-ffffff?style=for-the-badge&logo=debian&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=black)
 
 <br>
 
 ## 🛡️ Cyber Security & Tools
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6600.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23FFA500.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-%23333333.svg?style=for-the-badge&logo=sharp&logoColor=lime)
-![Nmap](https://img.shields.io/badge/Nmap-%234F5D75.svg?style=for-the-badge&logo=linux&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%23CC292B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ffffff?style=for-the-badge&logo=burpsuite&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-ffffff?style=for-the-badge&logo=metasploit&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-ffffff?style=for-the-badge&logo=wireshark&logoColor=black)
+![Hashcat](https://img.shields.io/badge/Hashcat-ffffff?style=for-the-badge&logo=sharp&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logo=linux&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MSSQL-ffffff?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)
 
 <br>
 
 ## ☁️ Cloud & Infrastructure
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ffffff?style=for-the-badge&logo=Cloudflare&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&logo=supabase&logoColor=black)
 
 <br>
 
 ## 🔌 Hardware & Embedded
 
-![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-ffffff?style=for-the-badge&logo=stmicroelectronics&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=black)
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakacar6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=burakacar6&show_icons=true&theme=dark&hide_border=true" alt="burakacar6's GitHub Stats" />
 </p>
 
 </div>
